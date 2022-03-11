@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyễn Thị Hà Trang
-* Student ID: BI11-267
+* Student Name:Nguyễn Thị Hà Trang
+* Student ID:BI11-267
