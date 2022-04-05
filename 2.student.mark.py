@@ -72,8 +72,8 @@ class Myclass(students,courses):
     def list_course(self):
         print(f"Listing {self.course_num()} courses:")
         for course in self.list_courses :
-            course.describe()
-
+            course.describe()  
+     
     def input_marks(self):
         pass
 
